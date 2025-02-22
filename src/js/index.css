@@ -1,0 +1,14 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-group-item span {
+    flex-grow: 1;
+}
